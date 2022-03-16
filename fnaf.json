@@ -1,0 +1,99 @@
+{
+  "urlGame" : "tAdKKC3FZhU",
+  "descGame" : "test",
+  "urlImageGame" : "test",
+  "nameGame" : "test",
+  "adNetwork" : {
+ 
+	"config" : {
+	"mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "admob",
+    "mode_ads_native" : "admob",
+    "mode_ads_rewarded" : "admob"
+	},
+  
+    "adcolony" : {
+	  "work" :"0",
+      "adcolony_app_id" : "",
+      "adcolony_interstitial_id" : "",
+      "adcolony_rewarded_id" : ""
+    },
+	"applovin" : {
+	  "work" :"0",
+      "applovin_app_id" : "",
+	  "applovin_native_id" : "",
+      "applovin_interstitial_id" : "",
+      "applovin_rewarded_id" : ""
+    },
+    "admob" : {
+	  "work" :"0",
+      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
+      "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917",
+      "admob_unit_id" : ""
+    },
+    "appodeal" : {
+	  "work" :"0",
+      "appodeal_app_key" : ""
+    },
+    "facebook" : {
+	  "work" :"0",
+      "facebook_banner_id" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook_native_id" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    },
+    "unity" : {
+	  "work" :"0",
+      "unity_app_id" : "",
+      "unity_banner_id" : "",
+      "unity_interstitial_id" : "",
+      "unity_rewarded_id" : ""
+    },
+	"ironSource" : {
+	  "work" :"0",
+      "ironsource_app_id" : "",
+      "ironsource_interstitial_id" : "",
+      "ironsource_rewarded_id" : "",
+	  "ironsource_banner_id" : "",
+	  "ironsource_offerwall_id" : ""
+    },
+	"adManager" : {
+	  "work" :"0",
+      "adManager_banner_id" : "",
+      "adManager_interstitial_id" : "",
+      "adManager_native_id" : "",
+      "adManager_rewarded_id" : "",
+      "adManager_unit_id" : ""
+    },
+	"startApp" : {
+	  "work" :"0",
+      "startApp_banner_id" : "",
+      "startApp_interstitial_id" : "",
+      "startApp_native_id" : "",
+      "startApp_rewarded_id" : "",
+      "startApp_unit_id" : ""
+    }
+	}
+
+,
+  "posts":[
+      {
+         "id":0,
+         "imageURL":"https://www.stardewvalley.net/wp-content/uploads/2018/12/NightMarket-1-1.png",
+         "state":"free",
+         "title":"You're moving to the Valley..",
+         "description":"You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life!",
+         "written":""
+      },
+      {
+         "id":1,
+         "imageURL":"https://www.stardewvalley.net/wp-content/uploads/2018/12/Multiplayer_Screenshot2-1.png",
+         "state":"free",
+         "title":"Features",
+         "description":"Create the farm of your dreams: Turn your overgrown fields into a lively and bountiful farm!Learn to live off the land: Raise animals, fishing, tend to crops, craft items, or do it all The choice is yours... Become a part of the local community: Pelican Town is home to over 30 residents you can befriend! Meet someone special: With 12 townsfolk to date, you may even find someone to start a family with! Explore vast, mysterious caves: Encounter dangerous monsters & valuable treasures deep underground! Customize: There are hundreds of character & home decoration options to choose from!",
+         "written":""
+      }
+   ]
+}
