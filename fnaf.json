@@ -81,18 +81,18 @@
   "posts":[
       {
          "id":0,
-         "imageURL":"https://www.stardewvalley.net/wp-content/uploads/2018/12/NightMarket-1-1.png",
+         "imageURL":"https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2021/12/five-nights-at-freddys-fazbear-left-door.jpg",
          "state":"free",
-         "title":"You're moving to the Valley..",
-         "description":"You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life!",
+         "title":"Keep the doors open",
+         "description":"The doors are the largest waste of power in the entire game. Sure you could keep them closed at all times to ward off enemies but that'd defeat the purpose of the game. Not to mention, doing so will barely get you through an hour before you completely run out of power. Instead, keep the doors open at all times until you actually hear a character approaching or see one in the doorway. Then slam them shut and leave them shut until they disappear.",
          "written":""
       },
       {
          "id":1,
-         "imageURL":"https://www.stardewvalley.net/wp-content/uploads/2018/12/Multiplayer_Screenshot2-1.png",
+         "imageURL":"https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/12/five-nights-at-freddys-bonnie-left-door.jpg",
          "state":"free",
-         "title":"Features",
-         "description":"Create the farm of your dreams: Turn your overgrown fields into a lively and bountiful farm!Learn to live off the land: Raise animals, fishing, tend to crops, craft items, or do it all The choice is yours... Become a part of the local community: Pelican Town is home to over 30 residents you can befriend! Meet someone special: With 12 townsfolk to date, you may even find someone to start a family with! Explore vast, mysterious caves: Encounter dangerous monsters & valuable treasures deep underground! Customize: There are hundreds of character & home decoration options to choose from!",
+         "title":"Use lights sparingly and only under attack",
+         "description":"Five Nights at Freddy's is immensely reliant on auditory cues. If you run around checking cameras and flipping on lights when you don't need to, you'll never have enough power to get through the night. Instead, when you think you hear something approaching, quickly tap the lights on and off to check the doorways. On the right side door, you can sometimes see something approaching in the shadows before it gets to the doorway. This means you can bypass using the lights altogether and just shut the door.",
          "written":""
       }
    ]
